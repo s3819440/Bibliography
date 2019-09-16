@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<html>
+  <h1>Bibliography<h1>
+<p>
 
-You can use the [editor on GitHub](https://github.com/s3819440/Bibliography/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. IDR Labs. (2019). My personality type is ISFJ.. [online] Available at: https://www.idrlabs.com/9-91-73-27-36-64-18-   
+   82/result.php [Accessed 15 Sep. 2019].
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. SEEK. (2019). [online] Available at: https://www.seek.com.au/job/39732381?ref=saved [Accessed 15 Sep. 2019].
+   Educationplanner.org. (2019). What's Your Learning Style? 20 Questions. [online] Available at:          
+   http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml [Accessed 15 Sep. 2019].
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3819440/Bibliography/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. Truity. (2019). Are You Really an Extravert?. [online] Available at: https://www.truity.com/blog/are-you-really-extravert 
+   [Accessed 15 Sep. 2019]. 
+</p> 
