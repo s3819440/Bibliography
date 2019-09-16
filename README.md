@@ -1,7 +1,7 @@
 <html>
   <h1>Bibliography<h1>
-<p>
 
+<p>
 1. IDR Labs. (2019). My personality type is ISFJ.. [online] Available at: https://www.idrlabs.com/9-91-73-27-36-64-18-   
    82/result.php [Accessed 15 Sep. 2019].
 
@@ -11,4 +11,4 @@
 
 3. Truity. (2019). Are You Really an Extravert?. [online] Available at: https://www.truity.com/blog/are-you-really-extravert 
    [Accessed 15 Sep. 2019]. 
-</p> 
+ </p>
